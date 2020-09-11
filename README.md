@@ -29,7 +29,7 @@ The system working can be easily understood with the flow diagram:
 4. Next, create a Google cloud account with the cloud service and generate an authorization key (follow the steps in Google Cloud Speech-to-Text section).
 5. After completing steps mentioned in the Google Cloud Speech-to-Text section, Go to voicerecognition.m file and run the file.
 
-## Google Cloud Speech-to-Text: <br />
+## Google Cloud Speech-to-Text: (The below steps are referred from [speech2text](https://in.mathworks.com/matlabcentral/fileexchange/65266-speech2text/)) <br />
 Using the Google Cloud Speech-to-Text API requires an API key for authorizing the request. The following steps describe how to create the API key:
 - Navigate to the APIs & Services->Credentials panel in Cloud Platform Console.
 - Select Create credentials, then select API key from the drop-down menu.
